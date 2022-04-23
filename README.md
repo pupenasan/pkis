@@ -3,7 +3,7 @@
 
 Дані матеріали викладені в тому вигляді, в якому були під час проведення дисципліни мною. Як на мене вони потребують модернізації.
 
-Зауваження щодо помилок писати [тут](https://github.com/pupenasan/fieldbus/issues/1) 
+Веб-версія [тут](https://pupenasan.github.io/pkis/). Зауваження щодо помилок писати [тут](https://github.com/pupenasan/pkis/issues/1) 
 
 - [Лекції](lec/README.md)
 - [Лабораторні роботи](lab/README.md)
