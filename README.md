@@ -6,6 +6,7 @@
 Веб-версія [тут](https://pupenasan.github.io/pkis/). Зауваження щодо помилок писати [тут](https://github.com/pupenasan/pkis/issues/1) 
 
 - [Лекції](lec/README.md)
+- [Курсовий проект](kurs/README.md)
 - [Лабораторні роботи](lab/README.md)
 
 Посібник "Промислові мережі та інтеграційні технології в автоматизованих системах" в онлайн варіанті можна знайти за [цим посиланням](https://github.com/pupenasan/fieldbusbook).
